@@ -1,0 +1,25 @@
+{
+  "name": "s82_followmeter-for-instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S82_Followmeter-for-instagram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S82_Followmeter-for-instagram/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S82_Followmeter-for-instagram#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
