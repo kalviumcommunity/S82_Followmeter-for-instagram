@@ -1,7 +1,7 @@
 {
   "name": "s82_followmeter-for-instagram",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://s82-followmeter-for-instagram-1.onrender.com/",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/kalviumcommunity/S82_Followmeter-for-instagram#readme",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {}
 }
